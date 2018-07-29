@@ -16,7 +16,7 @@ let MiniSunSystem1: Merkury = {
            a1: "He 42%",
             a2:"Na "42%",
             a3: "O "15%"
-    }
+    };
 };
 
 
