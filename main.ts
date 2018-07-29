@@ -1,7 +1,7 @@
 let myString: string = 'Hello';
 
 
-import { MiniSunSystem } from './Planet.interface.ts';
+import { MiniSunSystem } from "./Planet.interface.ts";
 
 
 let MiniSunSystem1: Merkury = {
@@ -15,9 +15,9 @@ let MiniSunSystem1: Merkury = {
     atmosphere: {
            a1: "He 42%",
             a2:"Na "42%",
-            a3: "O "15%"
+            a3: "O "15%",
     }
-}
+};
 
 
 let MiniSunSystem2: Venus = {

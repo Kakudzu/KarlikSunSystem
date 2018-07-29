@@ -1,5 +1,6 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 var myString = 'Hello';
-var mys = 'Hello';
 var MiniSunSystem1 = {
     sputniks: false,
     m: 3285,
@@ -10,8 +11,8 @@ var MiniSunSystem1 = {
     },
     atmosphere: {
         a1: "He 42%",
-        a2: "Na ", 42:  % ",
-        a3: "O ", 15:  % "
+        a2: "Na ", 42:  % ",,
+        a3: "O ", 15:  % ",
     }
 };
 var MiniSunSystem2 = {
