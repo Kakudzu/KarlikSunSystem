@@ -1,7 +1,7 @@
 let myString: string = 'Hello';
 
 
-var mys: string = 'Hello';
+import { MiniSunSystem } from './Planet.interface.ts';
 
 
 let MiniSunSystem1: Merkury = {
